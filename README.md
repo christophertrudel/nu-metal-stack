@@ -1,6 +1,6 @@
 # Remix Blues Stack
 
-![The Remix Blues Stack](https://user-images.githubusercontent.com/394759/161598781-58884bb9-21f3-415a-88b7-be9651477cfc.jpg)
+![The Remix Blues Stack](https://user-images.githubusercontent.com/394759/161600738-73584098-3412-4a03-903b-ac8d755f3f8c.png)
 
 Learn more about [Remix Stacks](https://remix.run/stacks).
 
